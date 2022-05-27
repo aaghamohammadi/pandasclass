@@ -12,4 +12,4 @@ print(df.tail())
 print(df.dtypes)
 print(df.dtypes.value_counts())
 
-print(df.info())
+df.info()
